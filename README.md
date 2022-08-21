@@ -16,3 +16,5 @@ one of 5 different options.
             and a small description of the park.
 
 **Option "Q"** quits the program. 
+
+To use program run **main_martinez_jonathan.py** in the same directory this file. 
